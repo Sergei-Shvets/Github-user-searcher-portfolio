@@ -6,6 +6,8 @@ This project was created with ReactJS, TypeScript and SCSS.
 
 If you want to run it on your computer, just download all the files and open them in any code editor. Then install all the dependencies and run app using "npm start".
 
-Or you can look at the screen shot below.
+Or you can look at the screen shots below.
 
 ![Screenshot](https://github.com/Sergei-Shvets/Github-user-searcher-portfolio/blob/main/Screen.jpg)
+
+![Screenshot](https://github.com/Sergei-Shvets/Github-user-searcher-portfolio/blob/main/Screen2.jpg)
